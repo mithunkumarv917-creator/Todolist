@@ -184,7 +184,6 @@ li {
 ```
 
 ## OUTPUT
-![alt text](<../Screenshot 2026-11-17 170548.png>)
-![alt text](<../Screenshot 2026-11-17 170831.png>)
+![alt text](<Screenshot 2026-11-17 170831.png>)
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
